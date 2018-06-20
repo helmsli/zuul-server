@@ -1,6 +1,6 @@
 spring:
   application:
-    name: order_access
+    name: order_zuul
   cloud:
     config:
       profile: dev
